@@ -82,16 +82,6 @@ The project uses the **DataCo Supply Chain Dataset**, which contains information
 - Scikit-Learn
 - Imbalanced-Learn (SMOTE)
 
----
-
-## Repository Structure
-
-Supply-Chain-Delivery-Risk-Analysis
-│
-├── Supply_Chain_Complete_Analysis.ipynb
-├── Supply_Chain_Project_Report.pdf
-└── README.md
-
 
 ## Key Skills Demonstrated
 
